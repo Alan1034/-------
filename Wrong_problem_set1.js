@@ -31,5 +31,5 @@ const problem3 = () => {
   obj.say()
   // "{say:f}"
 }
-problem3()
+
 
